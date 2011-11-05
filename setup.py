@@ -17,7 +17,7 @@ setup(
     long_description=get_long_description(),
     author='Ignas Mikalajunas',
     author_email='ignas@nous.lt',
-    url='http://github.com/Ignas/pypivotal/',
+    url='http://github.com/bryanhelmig/pypivotal/',
     classifiers=['Development Status :: 4 - Beta',
                  'Environment :: Web Environment',
                  'Intended Audience :: Developers',
@@ -32,7 +32,6 @@ setup(
         'poster'],
     package_dir={'': 'src'},
     packages=find_packages('src'),
-    namespace_packages=['busyflow'],
     include_package_data=True,
     zip_safe=False,
     license="GPL"
