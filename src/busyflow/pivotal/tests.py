@@ -2,7 +2,7 @@
 import unittest2
 from textwrap import dedent
 
-from busyflow.pivotal import PivotalClient
+from pypivotal import PivotalClient
 
 
 class TestPivotalClient(unittest2.TestCase):

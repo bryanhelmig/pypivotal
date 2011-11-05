@@ -1,4 +1,4 @@
 *.pyc
 *~
-src/busyflow.pivotal.egg-info/*
+src/pypivotal.egg-info/*
 *.swp
