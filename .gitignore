@@ -2,3 +2,5 @@
 *~
 src/pypivotal.egg-info/*
 *.swp
+build/*
+dist/*
